@@ -1,5 +1,8 @@
 _repo: Kapinoitsija_74731
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kianto, Ilmari
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44960
     wikipedia: https://fi.wikipedia.org/wiki/Ilmari_Kianto
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74731#Kapinoitsija
 gutenberg_issued: '2024-11-12'
 gutenberg_type: Text
 identifiers:
